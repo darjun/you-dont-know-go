@@ -5,3 +5,6 @@
 
 * [string](https://darjun.github.io/2021/05/18/youdontknowgo/string)
   深入string的底层结构和原理。
+
+* [const](https://darjun.github.io/2021/05/30/youdontknowgo/const)
+  Go 常量有用的小知识。
