@@ -8,3 +8,6 @@
 
 * [const](https://darjun.github.io/2021/05/30/youdontknowgo/const)
   Go 常量有用的小知识。
+
+* [pprof](https://darjun.github.io/2021/06/09/youdontknowgo/pprof)
+  pprof 用法进阶。
